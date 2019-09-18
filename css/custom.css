@@ -1,0 +1,69 @@
+body {
+	padding-top: 100px;
+	font-family: 'Lora', Georgia, "Times New Roman", serif;
+	font-size: 20px;
+}
+
+.issue-number {
+	background-color: black;
+	color: white;
+}
+.navbar-brand {
+	font-weight: bold;
+	color: white;
+	font-family: 'PT Sans', Helvetica, sans-serif;
+}
+.navbar-brand a:link a:visited a:hover {
+	font-weight: bold;
+	color: white;
+	font-family: 'PT Sans', Helvetica, sans-serif;
+}
+
+h3 {
+	font-family: 'PT Sans';
+	font-weight: bold;
+}
+
+h1 {
+	color: #000000;
+	font-family: 'PT Sans', Helvetica, sans-serif;
+	font-weight: bold;
+}
+h1:link {
+    color: black;
+}
+h2 {
+	font-family: 'PT Sans', Helvetica, sans-serif;
+	font-weight:bold;
+}
+
+h4 {
+	font-family: 'PT Sans', Helvetica, sans-serif;
+	font-weight:bold;
+}
+
+nav {
+	font-family: 'PT Sans', Helvetica, sans-serif;
+}
+
+<!-- All things "biblio-box" -->
+.biblio-box img {
+	border:1px solid LightGray;
+}
+
+.biblio-box p ,.biblio-box ul{
+	font-family: 'PT Sans', Helvetica, sans-serif;
+	color: #000000;
+	list-style:none;
+	font-size: small;
+}
+
+.thumbs-box p ,.thumbs-box ul{
+	font-family: 'PT Sans';
+	color: #000000;
+	list-style:none;
+	font-size: 85%;
+}
+.thumbs-box img {
+	border:1px solid LightGray;
+}
