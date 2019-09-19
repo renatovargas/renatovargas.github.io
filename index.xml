@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Momentos de ejecución perfecta</title>
-      <link>https://renatovargas.github.io/videos/momentos-de-ejecucion-perfecta/</link>
-      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://renatovargas.github.io/videos/momentos-de-ejecucion-perfecta/</guid>
-      <description>Momentos</description>
-    </item>
-    
-    <item>
       <title>Olvídate de todo para enfocarte en lo que importa</title>
       <link>https://renatovargas.github.io/blog/0004-olvidate-de-todo-para-enfocarte/</link>
       <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
@@ -53,7 +44,7 @@
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://renatovargas.github.io/blog/0001-tres-pasos-para-convertirse-en-superheroe/</guid>
-      <description>Tres pasos para convertirse en un súper héroe Paso número uno: quítate los anteojos.
+      <description>Paso número uno: quítate los anteojos.
 Paso número dos: cuélgate la capa dentro de una cabina telefónica.
 Paso tres: vuela hacia el peligro, de preferencia despeinándote en el proceso para que un rulo de cabello oculte tu verdadera identidad.
 Yo: “¿Qué hago si donde vivo no hay cabinas telefónicas… o peligro? Rayos, no uso anteojos.”
@@ -67,7 +58,16 @@ Después de muchos cursos, blogs, libros, videos, retiros y terapias sobre super
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://renatovargas.github.io/podcasts/podcast-001-definamos-ejecucion-perfecta/</guid>
-      <description></description>
+      <description>Este es el contenido del post</description>
+    </item>
+    
+    <item>
+      <title>Un vídeo muy vídeoso</title>
+      <link>https://renatovargas.github.io/videos/0001-momentos-de-ejecucion-perfecta/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://renatovargas.github.io/videos/0001-momentos-de-ejecucion-perfecta/</guid>
+      <description> </description>
     </item>
     
   </channel>
