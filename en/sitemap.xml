@@ -4,17 +4,17 @@
   
   <url>
     <loc>https://renatovargas.github.io/blog/</loc>
-    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renatovargas.github.io/blog/0004-olvidate-de-todo-para-enfocarte/</loc>
-    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+    <loc>https://renatovargas.github.io/blog/2019/0005-olvidate-de-todo-para-enfocarte/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://renatovargas.github.io/</loc>
-    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -28,27 +28,67 @@
   </url>
   
   <url>
-    <loc>https://renatovargas.github.io/blog/0003-cognicion-corporea/</loc>
+    <loc>https://renatovargas.github.io/blog/2019/0005-cognicion-corporea/</loc>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://renatovargas.github.io/blog/2019/0003-el-monstruo-de-la-resistencia/</loc>
     <lastmod>2019-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renatovargas.github.io/blog/0002-la-practica-diaria/</loc>
+    <loc>https://renatovargas.github.io/blog/2019/0002-una-hora-al-dia-para-revolucionar-tu-vida/</loc>
     <lastmod>2019-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renatovargas.github.io/blog/0001-tres-pasos-para-convertirse-en-superheroe/</loc>
+    <loc>https://renatovargas.github.io/tags/alto-desempe%C3%B1o/</loc>
     <lastmod>2019-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renatovargas.github.io/podcasts/podcast-001-definamos-ejecucion-perfecta/</loc>
+    <loc>https://renatovargas.github.io/tags/aprendizaje-acelerado/</loc>
+    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://renatovargas.github.io/tags/cognici%C3%B3n-corp%C3%B3rea/</loc>
+    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://renatovargas.github.io/tags/ejecuci%C3%B3n-perfecta/</loc>
+    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://renatovargas.github.io/blog/2019/0001-la-ejecucion-perfecta/</loc>
+    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://renatovargas.github.io/tags/</loc>
+    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://renatovargas.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://renatovargas.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://renatovargas.github.io/podcast/podcast-001-definamos-ejecucion-perfecta/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renatovargas.github.io/podcasts/</loc>
+    <loc>https://renatovargas.github.io/podcast/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,20 +113,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://renatovargas.github.io/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://renatovargas.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://renatovargas.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://renatovargas.github.io/tags/"
                 />
   </url>
   
