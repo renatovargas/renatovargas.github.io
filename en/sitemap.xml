@@ -33,11 +33,6 @@
   </url>
   
   <url>
-    <loc>https://renatovargas.com/blog/</loc>
-    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://renatovargas.com/tags/habilidad/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
   </url>
@@ -80,6 +75,11 @@
                 hreflang="en"
                 href="https://renatovargas.com/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://renatovargas.com/blog/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
