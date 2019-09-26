@@ -153,10 +153,6 @@
   </url>
   
   <url>
-    <loc>https://renatovargas.github.io/acerca/</loc>
-  </url>
-  
-  <url>
     <loc>https://renatovargas.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -168,6 +164,10 @@
                 hreflang="en"
                 href="https://renatovargas.github.io/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://renatovargas.github.io/acerca/</loc>
   </url>
   
 </urlset>
