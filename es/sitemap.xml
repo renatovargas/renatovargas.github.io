@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://renatovargas.github.io/es/categories/</loc>
+    <loc>https://renatovargas.com/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://renatovargas.github.io/categories/"
+                href="https://renatovargas.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://renatovargas.github.io/es/categories/"
+                href="https://renatovargas.com/es/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://renatovargas.github.io/es/</loc>
+    <loc>https://renatovargas.com/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://renatovargas.github.io/"
+                href="https://renatovargas.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://renatovargas.github.io/es/"
+                href="https://renatovargas.com/es/"
                 />
   </url>
   
   <url>
-    <loc>https://renatovargas.github.io/es/tags/</loc>
+    <loc>https://renatovargas.com/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://renatovargas.github.io/tags/"
+                href="https://renatovargas.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://renatovargas.github.io/es/tags/"
+                href="https://renatovargas.com/es/tags/"
                 />
   </url>
   
