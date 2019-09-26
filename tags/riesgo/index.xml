@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>alto desempeño on Renato Vargas</title>
-    <link>https://renatovargas.github.io/tags/alto-desempe%C3%B1o/</link>
-    <description>Recent content in alto desempeño on Renato Vargas</description>
+    <title>riesgo on Renato Vargas</title>
+    <link>https://renatovargas.github.io/tags/riesgo/</link>
+    <description>Recent content in riesgo on Renato Vargas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://renatovargas.github.io/tags/alto-desempe%C3%B1o/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://renatovargas.github.io/tags/riesgo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://renatovargas.github.io/blog/2019/los-disparadores-de-la-ejecucion-perfecta/</guid>
       <description>Hemos definido los momentos de ejecución perfecta como aquellas situaciones en las que nos sentimos de lo mejor y tenemos nuestro mejor desempeño. Se caracterizan por sentir que el yo se desvanece, el transcurso del tiempo parece distorsionarse, ejecutamos las acciones casi sin esfuerzo y el desempeño de la tarea es tan gratificante que se vuelve un fin en si mismo, independiente del resultado. Varían en intensidad y pueden ir desde engancharse con una película o tener una conversación estimulante con un amigo hasta ejecutar un triple mortal en algún deporte extremo sin ningún fallo.</description>
-    </item>
-    
-    <item>
-      <title>La ejecución perfecta</title>
-      <link>https://renatovargas.github.io/blog/2019/la-ejecucion-perfecta/</link>
-      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://renatovargas.github.io/blog/2019/la-ejecucion-perfecta/</guid>
-      <description>Todos hemos experimentado momentos de ejecución perfecta. Pueden haber tomado la forma de una conversación de en que nos perdimos por horas con esa nueva persona que acabábamos de conocer. Tal vez sucedió una noche en la que necesitábamos entregar una tarea importante al día siguiente y nos quedamos trabajando toda la noche con una concentración casi divina que dio como resultado un trabajo a la perfección. O probablemente sucedió durante una lluvia de ideas en grupo en que todos parecían estar en armonía perfecta.</description>
     </item>
     
   </channel>
