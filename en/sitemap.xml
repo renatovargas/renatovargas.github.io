@@ -4,27 +4,82 @@
   
   <url>
     <loc>https://renatovargas.com/tags/alto-desempe%C3%B1o/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://renatovargas.com/tags/aprendizaje-acelerado/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://renatovargas.com/tags/concentraci%C3%B3n/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://renatovargas.com/tags/cr%C3%ADtico-interno/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://renatovargas.com/tags/cuerpo/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://renatovargas.com/tags/ejecuci%C3%B3n-perfecta/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://renatovargas.com/tags/grandes-consecuencias/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://renatovargas.com/tags/mente/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://renatovargas.com/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://renatovargas.com/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://renatovargas.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://renatovargas.com/blog/2019/situaciones-con-grandes-consecuencias/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://renatovargas.com/tags/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://renatovargas.com/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://renatovargas.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://renatovargas.com/blog/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,28 +98,8 @@
   </url>
   
   <url>
-    <loc>https://renatovargas.com/tags/mente/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://renatovargas.com/tags/movimiento/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://renatovargas.com/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://renatovargas.com/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://renatovargas.com/"
-                />
   </url>
   
   <url>
@@ -73,27 +108,7 @@
   </url>
   
   <url>
-    <loc>https://renatovargas.com/tags/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://renatovargas.com/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://renatovargas.com/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://renatovargas.com/tags/taninas/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://renatovargas.com/blog/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -144,11 +159,6 @@
   
   <url>
     <loc>https://renatovargas.com/tags/familiaridad/</loc>
-    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://renatovargas.com/tags/grandes-consecuencias/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
