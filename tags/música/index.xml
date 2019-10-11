@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>música on Renato Vargas</title>
+    <link>https://renatovargas.com/tags/m%C3%BAsica/</link>
+    <description>Recent content in música on Renato Vargas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://renatovargas.com/tags/m%C3%BAsica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El poder de la música para determinar tu estado de ánimo</title>
+      <link>https://renatovargas.com/blog/2019/el-poder-de-la-m%C3%BAsica.md/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://renatovargas.com/blog/2019/el-poder-de-la-m%C3%BAsica.md/</guid>
+      <description>Hace algún tiempo tuve la oportunidad de reflexionar sobre mi vida y mi relación con la música. Mi abuelo tocaba el oboe en la Orquesta Sinfónica Nacional de Guatemala y en mi casa había canciones para todo. Había una canción para sacar las jaulas de los canarios al patio por las mañanas, había canción para hacer pipí, había canción, para cerrar la puerta cuando había frío y había canción para ir por el pan.</description>
+    </item>
+    
+  </channel>
+</rss>
