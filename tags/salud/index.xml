@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>salud on Renato Vargas</title>
+    <link>https://renatovargas.com/tags/salud/</link>
+    <description>Recent content in salud on Renato Vargas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://renatovargas.com/tags/salud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Las valiosas lecciones que aprendí en Popoyán</title>
+      <link>https://renatovargas.com/blog/2020/las-valiosas-lecciones-que-aprendi-en-popoyan/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renatovargas.com/blog/2020/las-valiosas-lecciones-que-aprendi-en-popoyan/</guid>
+      <description>Hace algunos días celebré mi último día de trabajo en Popoyán, una empresa guatemalteca líder en toda la cadena de valor agrícola que, a través del proyecto Proinnova, en donde yo me desempeñaba, apoya a productores de pequeña escala para que inviertan en tecnologías de clase mundial para la producción de hortalizas y frutales bajo una perspectiva de valor compartido de mercado que les permite aumentar su rentabilidad y tomar control financiero de su futuro.</description>
+    </item>
+    
+  </channel>
+</rss>
